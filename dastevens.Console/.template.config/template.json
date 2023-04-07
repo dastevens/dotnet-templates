@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "dastevens",
+  "classifications": [ "dastevens", "Console" ],
+  "identity": "dastevens.Console",
+  "name": "Console with DI, Configuration and StyleCop",
+  "shortName": "myconsole",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "dastevens.Console",
+  "preferNameDirectory" : true
+}
