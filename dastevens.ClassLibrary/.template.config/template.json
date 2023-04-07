@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "dastevens",
+  "classifications": [ "dastevens", "Library" ],
+  "identity": "dastevens.ClassLibrary",
+  "name": "Class Library with standard settings and StyleCop",
+  "shortName": "myclasslib",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "dastevens.ClassLibrary",
+  "preferNameDirectory" : true
+}
