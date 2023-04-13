@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "dastevens",
+  "classifications": [ "dastevens", "Test" ],
+  "identity": "dastevens.XUnitTest",
+  "name": "XUnit test project with standard settings and StyleCop",
+  "shortName": "myxunittest",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "dastevens.XUnitTest",
+  "preferNameDirectory" : true
+}

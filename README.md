@@ -6,4 +6,5 @@ Template projects for dotnet
 ```
 dotnet new install .\dastevens.ClassLibrary --force
 dotnet new install .\dastevens.Console --force
+dotnet new install .\dastevens.XUnitTest --force
 ```
